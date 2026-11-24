@@ -11,12 +11,12 @@ A passionate **Data Analyst** who loves turning raw data into meaningful insight
 
 ### 🛠️ Tech Stack
 
-![Microsoft Excel](https://shields.io)
-![SQL](https://shields.io)
-![Power BI](https://shields.io)
+`🗄️ SQL` &nbsp; • &nbsp; `📑 Advanced Excel` &nbsp; • &nbsp; `📈 Power BI` &nbsp; • &nbsp; `📊 Data Visualization`
 
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:gani23039@gmail.com)
+
+- 💼 **LinkedIn:** ://linkedin.com
+- 📧 **Email:** gani23039@gmail.com
+- 
