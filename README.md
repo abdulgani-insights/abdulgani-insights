@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Abdul Gani 👋
 
-<!--
-**abdulgani-insights/abdulgani-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Data Analyst** who loves turning raw data into meaningful insights, building interactive dashboards, and solving real-world business problems.
 
-Here are some ideas to get you started:
+- 📊 **Data Analysis & Visualization**
+- 🗄️ **SQL for Data Analysis & Querying**
+- 📈 **Power BI Dashboards & Reporting**
+- 📑 **Advanced Excel (Pivot Tables, XLOOKUP, Power Query)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Microsoft Excel](https://shields.io)
+![SQL](https://shields.io)
+![Power BI](https://shields.io)
+
+---
+
+### 🤝 Connect with Me
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:gani23039@gmail.com)
