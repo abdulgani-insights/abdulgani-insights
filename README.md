@@ -11,12 +11,18 @@ A passionate **Data Analyst** who loves turning raw data into meaningful insight
 
 ### 🛠️ Tech Stack
 
-`🗄️ SQL` &nbsp; • &nbsp; `📑 Advanced Excel` &nbsp; • &nbsp; `📈 Power BI` &nbsp; • &nbsp; `📊 Data Visualization`
+<p align="left">
+  <img src="https://githubusercontent.com" alt="SQL" width="55" height="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://icons8.com" alt="Excel" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://icons8.com" alt="Power BI" width="50" height="50" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
-- 💼 **LinkedIn:** ://linkedin.com
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - 📧 **Email:** gani23039@gmail.com
 - 
